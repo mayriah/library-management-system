@@ -108,3 +108,4 @@ Open Prisma Studio to visually inspect the seeded `Genre` and `Book` tables:
 ```bash
 npx prisma studio
 ```
+

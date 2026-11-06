@@ -5,3 +5,4 @@ import { PrismaModule } from "./prisma/prisma.module";
   imports: [PrismaModule],
 })
 export class AppModule {}
+
